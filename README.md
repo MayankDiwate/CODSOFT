@@ -3,6 +3,7 @@
 Task Accomplishments:
 Calculator Project 🖩:
 Successfully built a fully functional calculator using HTML and CSS! This project allowed me to delve into the fundamentals of web development and enhance my coding skills.
+See (live)[https://codsoft-simple-calculator.vercel.app/]
 
 Portfolio Website 🌐:
 Created a personalized portfolio website to showcase my skills, projects, and journey in the world of web development. Check it out to learn more about my expertise and accomplishments.
